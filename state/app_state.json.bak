@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T22:44:40.5186457+09:00",
+  "timestamp": "2026-02-15T22:44:44.3931207+09:00",
   "processId": 54236,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "16122026021500166_002",
+    "barcode": "16122026021500166_003",
     "dDatd": "",
     "specName": "TFB-F28FS",
     "specPower": "1Φ 220V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "16122026021500166_001",
+    "barcode": "16122026021500166_002",
     "dDatd": "",
     "specName": "TFB-F28FS",
     "specPower": "1Φ 220V, 60HZ",
@@ -25,7 +25,17 @@
     "firstResult": "OK",
     "powerSupply": ""
   },
-  "inspectionPosition": null,
+  "inspectionPosition": {
+    "barcode": "16122026021500166_001",
+    "dDatd": "",
+    "specName": "TFB-F28FS",
+    "specPower": "1Φ 220V, 60HZ",
+    "specCapacity": "1525 W",
+    "specCurrent": "R:1A (단상)",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": "228.3V / 60.1Hz"
+  },
   "unloadingPosition": null,
   "inspectionMeasurement": null,
   "unloadingMeasurement": null,
