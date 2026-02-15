@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T20:32:40.6514207+09:00",
+  "timestamp": "2026-02-15T20:32:40.9827161+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "14502026021500945_082",
+    "barcode": "14502026021500945_083",
     "dDatd": "",
     "specName": "TFB-F19DT",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "14502026021500945_081",
+    "barcode": "14502026021500945_082",
     "dDatd": "",
     "specName": "TFB-F19DT",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -26,6 +26,17 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
+    "barcode": "14502026021500945_081",
+    "dDatd": "",
+    "specName": "TFB-F19DT",
+    "specPower": "3Φ 220/380V, 60HZ",
+    "specCapacity": "190 W",
+    "specCurrent": "R:1A  S:1A  T:1A",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": "229.7V / 58.9Hz"
+  },
+  "unloadingPosition": {
     "barcode": "14502026021500945_080",
     "dDatd": "",
     "specName": "TFB-F19DT",
@@ -34,31 +45,20 @@
     "specCurrent": "R:1A  S:1A  T:1A",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": "224.8V / 60.4Hz"
-  },
-  "unloadingPosition": {
-    "barcode": "14502026021500945_079",
-    "dDatd": "",
-    "specName": "TFB-F19DT",
-    "specPower": "3Φ 220/380V, 60HZ",
-    "specCapacity": "190 W",
-    "specCurrent": "R:1A  S:1A  T:1A",
-    "retestInfo": "-",
-    "firstResult": "OK",
-    "powerSupply": "225.8V / 60.7Hz"
+    "powerSupply": "229.0V / 60.7Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
-    "voltageR": "228.7 V",
+    "voltageR": "226.1 V",
     "voltageS": "- V",
     "voltageT": "- V",
     "currentR": "1.00 A",
     "currentS": "0.00 A",
     "currentT": "0.00 A",
-    "frequencyR": "59.7 Hz",
+    "frequencyR": "60.2 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10173.3 W",
+    "power": "10231.8 W",
     "noise": "OK",
     "finalResult": "NG1"
   },
