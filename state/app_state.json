@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T22:07:38.5853942+09:00",
+  "timestamp": "2026-02-15T22:07:42.7925931+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "16072026021500907_080",
+    "barcode": "16072026021500907_081",
     "dDatd": "",
     "specName": "TFB-G29ES",
     "specPower": "1Φ 220V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "16072026021500907_079",
+    "barcode": "16072026021500907_080",
     "dDatd": "",
     "specName": "TFB-G29ES",
     "specPower": "1Φ 220V, 60HZ",
@@ -26,6 +26,17 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
+    "barcode": "16072026021500907_079",
+    "dDatd": "",
+    "specName": "TFB-G29ES",
+    "specPower": "1Φ 220V, 60HZ",
+    "specCapacity": "520 W",
+    "specCurrent": "R:1A (단상)",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": "222.4V / 60.2Hz"
+  },
+  "unloadingPosition": {
     "barcode": "16072026021500907_078",
     "dDatd": "",
     "specName": "TFB-G29ES",
@@ -34,18 +45,7 @@
     "specCurrent": "R:1A (단상)",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": ""
-  },
-  "unloadingPosition": {
-    "barcode": "16072026021500907_077",
-    "dDatd": "",
-    "specName": "TFB-G29ES",
-    "specPower": "1Φ 220V, 60HZ",
-    "specCapacity": "520 W",
-    "specCurrent": "R:1A (단상)",
-    "retestInfo": "-",
-    "firstResult": "OK",
-    "powerSupply": "223.9V / 59.4Hz"
+    "powerSupply": "223.7V / 60.0Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
@@ -55,10 +55,10 @@
     "currentR": "1.00 A",
     "currentS": "- A",
     "currentT": "- A",
-    "frequencyR": "60.2 Hz",
+    "frequencyR": "60.4 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10292.8 W",
+    "power": "10168.5 W",
     "noise": "OK",
     "finalResult": "OK"
   },
