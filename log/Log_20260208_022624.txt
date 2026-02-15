@@ -1,0 +1,318 @@
+﻿=== 로그 기록 ===
+저장 시간: 2026-02-08 02:26:24
+필터: 전체
+총 307 줄
+==================================================
+
+[02:26:20.915] [Main] [MainWindow] Alt+Ctrl+F12 감지 - 로그 창 토글
+[02:26:20.941] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:20.943] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:20.943] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:20.969] [기타] [PW3360] Raw Response: Date 2026,02,08;Time 02,26,20;Status 00000000;U1_Ins 2.22E+02;U2_Ins 2.13E+02;U3_Ins 2.22E+02;Freq_Ins 5.925E+01
+
+[02:26:20.970] [기타] [PW3360] Part: 'U1_Ins 2.22E+02'
+[02:26:20.971] [기타] [PW3360] U1 extracted: '2.22E+02'
+[02:26:20.971] [기타] [PW3360] Part: 'U2_Ins 2.13E+02'
+[02:26:20.972] [기타] [PW3360] U2 extracted: '2.13E+02'
+[02:26:20.972] [기타] [PW3360] Part: 'U3_Ins 2.22E+02'
+[02:26:20.972] [기타] [PW3360] U3 extracted: '2.22E+02'
+[02:26:20.973] [기타] [PW3360] Part: 'Freq_Ins 5.925E+01'
+[02:26:20.974] [기타] [PW3360] Freq extracted: '5.925E+01'
+[02:26:20.974] [기타] [PW3360] 현재 주파수: 59.25Hz (정상범위: 45~65Hz)
+[02:26:20.975] [기타] [PW3360] 주파수 정상 (59.25Hz) - 보정 불필요
+[02:26:21.253] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:21.254] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:21.255] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:21.268] [기타] [센서→PLC] Float: 9898.50, 51.32, 217.22, 15.11, 51.59, 211.90, 14.81, 48.79, 221.62, 15.13, 3282.19, 51.32, 217.22, 15.11, 48128.90
+[02:26:21.269] [기타] [센서→PLC] Int: 989850, 5132, 21722, 1511, 5159, 21190, 1481, 4879, 22162, 1513, 328219, 5132, 21722, 1511, 4812890
+[02:26:21.353] [기타] [센서→PLC] Float 전송 완료: D1000~D1031 (16개 Float, D1030에 RM-3544)
+[02:26:21.355] [Device] [DeviceView] UpdatePlcMonitorFloatData 호출됨. 데이터 개수: 16
+[02:26:21.356] [Device] [DeviceView] PlcMonitorView 연결됨 ✅
+[02:26:21.356] [Device] [DeviceView] PlcMonitorView.UpdateFloatData 호출 시작...
+[02:26:21.357] [PLC] [PLCMonitorView] UpdateFloatData 시작. 데이터: 16개
+[02:26:21.358] [PLC] [PLCMonitorView] PlcDataItems 개수: 72
+[02:26:21.359] [PLC] [PLCMonitorView] 업데이트할 개수: 16, 시작 인덱스: 21
+[02:26:21.360] [PLC] [PLCMonitorView] [21] D1000~D1001: 10158.10 → 9898.50
+[02:26:21.361] [PLC] [PLCMonitorView] [22] D1002~D1003: 50.39 → 51.32
+[02:26:21.361] [PLC] [PLCMonitorView] [23] D1004~D1005: 215.13 → 217.22
+[02:26:21.362] [PLC] [PLCMonitorView] [24] D1006~D1007: 15.51 → 15.11
+[02:26:21.363] [PLC] [PLCMonitorView] [25] D1008~D1009: 51.03 → 51.59
+[02:26:21.363] [PLC] [PLCMonitorView] [26] D1010~D1011: 220.25 → 211.90
+[02:26:21.363] [PLC] [PLCMonitorView] [27] D1012~D1013: 15.33 → 14.81
+[02:26:21.364] [PLC] [PLCMonitorView] [28] D1014~D1015: 49.45 → 48.79
+[02:26:21.364] [PLC] [PLCMonitorView] [29] D1016~D1017: 214.36 → 221.62
+[02:26:21.365] [PLC] [PLCMonitorView] [30] D1018~D1019: 15.11 → 15.13
+[02:26:21.365] [PLC] [PLCMonitorView] [31] D1020~D1021: 3336.67 → 3282.19
+[02:26:21.365] [PLC] [PLCMonitorView] [32] D1022~D1023: 50.39 → 51.32
+[02:26:21.366] [PLC] [PLCMonitorView] [33] D1024~D1025: 215.13 → 217.22
+[02:26:21.366] [PLC] [PLCMonitorView] [34] D1026~D1027: 15.51 → 15.11
+[02:26:21.366] [PLC] [PLCMonitorView] [35] D1028~D1029: 0.00 → 0.00
+[02:26:21.367] [PLC] [PLCMonitorView] [36] D1030~D1031: 48128.90 → 48128.90
+[02:26:21.367] [PLC] [PLCMonitorView] Float 데이터 업데이트 완료: 16개 ✅
+[02:26:21.368] [Device] [DeviceView] PlcMonitorView.UpdateFloatData 호출 완료 ✅
+[02:26:21.425] [기타] [센서→PLC] Int 전송 완료: D1040~D1071 (16개 Int32, D1070에 RM-3544)
+[02:26:21.426] [Device] [DeviceView] UpdatePlcMonitorInt32Data 호출됨. 데이터 개수: 16
+[02:26:21.427] [Device] [DeviceView] PlcMonitorView 연결됨 ✅
+[02:26:21.427] [Device] [DeviceView] PlcMonitorView.UpdateInt32Data 호출 시작...
+[02:26:21.428] [PLC] [PLCMonitorView] UpdateInt32Data 시작. 데이터: 16개
+[02:26:21.428] [PLC] [PLCMonitorView] 업데이트할 개수: 16, 시작 인덱스: 37
+[02:26:21.429] [PLC] [PLCMonitorView] [37] D1040~D1041: 1015810 → 989850
+[02:26:21.429] [PLC] [PLCMonitorView] [38] D1042~D1043: 5039 → 5132
+[02:26:21.430] [PLC] [PLCMonitorView] [39] D1044~D1045: 21513 → 21722
+[02:26:21.430] [PLC] [PLCMonitorView] [40] D1046~D1047: 1551 → 1511
+[02:26:21.431] [PLC] [PLCMonitorView] [41] D1048~D1049: 5103 → 5159
+[02:26:21.431] [PLC] [PLCMonitorView] [42] D1050~D1051: 22025 → 21190
+[02:26:21.432] [PLC] [PLCMonitorView] [43] D1052~D1053: 1533 → 1481
+[02:26:21.432] [PLC] [PLCMonitorView] [44] D1054~D1055: 4945 → 4879
+[02:26:21.433] [PLC] [PLCMonitorView] [45] D1056~D1057: 21436 → 22162
+[02:26:21.433] [PLC] [PLCMonitorView] [46] D1058~D1059: 1511 → 1513
+[02:26:21.434] [PLC] [PLCMonitorView] [47] D1060~D1061: 333667 → 328219
+[02:26:21.435] [PLC] [PLCMonitorView] [48] D1062~D1063: 5039 → 5132
+[02:26:21.435] [PLC] [PLCMonitorView] [49] D1064~D1065: 21513 → 21722
+[02:26:21.436] [PLC] [PLCMonitorView] [50] D1066~D1067: 1551 → 1511
+[02:26:21.436] [PLC] [PLCMonitorView] [51] D1068~D1069: 0 → 0
+[02:26:21.437] [PLC] [PLCMonitorView] [52] D1070~D1071: 4812890 → 4812890
+[02:26:21.438] [PLC] [PLCMonitorView] Int32 데이터 업데이트 완료: 16개 ✅
+[02:26:21.438] [Device] [DeviceView] PlcMonitorView.UpdateInt32Data 호출 완료 ✅
+[02:26:21.455] [기타] [센서→PLC] PW3360 3상 전송 완료: D1080~D1087 (Freq:5925, U1:22200, U2:21300, U3:22200)
+[02:26:21.466] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:21.467] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:21.467] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:21.476] [기타] [센서→PLC] NI 결과 전송 완료: D1074 = 'NG' (0x4E47)
+[02:26:21.678] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:21.679] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:21.680] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:21.846] [기타] [PW3360] Raw Response: Date 2026,02,08;Time 02,26,21;Status 00000000;U1_Ins 2.19E+02;U2_Ins 2.15E+02;U3_Ins 2.27E+02;Freq_Ins 6.056E+01
+
+[02:26:21.847] [기타] [PW3360] Part: 'U1_Ins 2.19E+02'
+[02:26:21.848] [기타] [PW3360] U1 extracted: '2.19E+02'
+[02:26:21.849] [기타] [PW3360] Part: 'U2_Ins 2.15E+02'
+[02:26:21.850] [기타] [PW3360] U2 extracted: '2.15E+02'
+[02:26:21.850] [기타] [PW3360] Part: 'U3_Ins 2.27E+02'
+[02:26:21.851] [기타] [PW3360] U3 extracted: '2.27E+02'
+[02:26:21.852] [기타] [PW3360] Part: 'Freq_Ins 6.056E+01'
+[02:26:21.853] [기타] [PW3360] Freq extracted: '6.056E+01'
+[02:26:21.854] [기타] [PW3360] 현재 주파수: 60.56Hz (정상범위: 45~65Hz)
+[02:26:21.855] [기타] [PW3360] 주파수 정상 (60.56Hz) - 보정 불필요
+[02:26:21.872] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:21.874] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:21.874] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:21.950] [기타] [센서→PLC] Float: 9873.40, 51.41, 214.46, 15.23, 50.62, 217.68, 15.05, 48.56, 218.91, 15.34, 3266.23, 51.41, 214.46, 15.23, 46828.20
+[02:26:21.951] [기타] [센서→PLC] Int: 987340, 5141, 21446, 1523, 5062, 21768, 1505, 4856, 21891, 1534, 326623, 5141, 21446, 1523, 4682820
+[02:26:22.016] [기타] [센서→PLC] Float 전송 완료: D1000~D1031 (16개 Float, D1030에 RM-3544)
+[02:26:22.017] [Device] [DeviceView] UpdatePlcMonitorFloatData 호출됨. 데이터 개수: 16
+[02:26:22.018] [Device] [DeviceView] PlcMonitorView 연결됨 ✅
+[02:26:22.020] [Device] [DeviceView] PlcMonitorView.UpdateFloatData 호출 시작...
+[02:26:22.021] [PLC] [PLCMonitorView] UpdateFloatData 시작. 데이터: 16개
+[02:26:22.022] [PLC] [PLCMonitorView] PlcDataItems 개수: 72
+[02:26:22.023] [PLC] [PLCMonitorView] 업데이트할 개수: 16, 시작 인덱스: 21
+[02:26:22.023] [PLC] [PLCMonitorView] [21] D1000~D1001: 9898.50 → 9873.40
+[02:26:22.024] [PLC] [PLCMonitorView] [22] D1002~D1003: 51.32 → 51.41
+[02:26:22.025] [PLC] [PLCMonitorView] [23] D1004~D1005: 217.22 → 214.46
+[02:26:22.026] [PLC] [PLCMonitorView] [24] D1006~D1007: 15.11 → 15.23
+[02:26:22.027] [PLC] [PLCMonitorView] [25] D1008~D1009: 51.59 → 50.62
+[02:26:22.028] [PLC] [PLCMonitorView] [26] D1010~D1011: 211.90 → 217.68
+[02:26:22.029] [PLC] [PLCMonitorView] [27] D1012~D1013: 14.81 → 15.05
+[02:26:22.029] [PLC] [PLCMonitorView] [28] D1014~D1015: 48.79 → 48.56
+[02:26:22.030] [PLC] [PLCMonitorView] [29] D1016~D1017: 221.62 → 218.91
+[02:26:22.031] [PLC] [PLCMonitorView] [30] D1018~D1019: 15.13 → 15.34
+[02:26:22.032] [PLC] [PLCMonitorView] [31] D1020~D1021: 3282.19 → 3266.23
+[02:26:22.033] [PLC] [PLCMonitorView] [32] D1022~D1023: 51.32 → 51.41
+[02:26:22.034] [PLC] [PLCMonitorView] [33] D1024~D1025: 217.22 → 214.46
+[02:26:22.035] [PLC] [PLCMonitorView] [34] D1026~D1027: 15.11 → 15.23
+[02:26:22.036] [PLC] [PLCMonitorView] [35] D1028~D1029: 0.00 → 0.00
+[02:26:22.037] [PLC] [PLCMonitorView] [36] D1030~D1031: 48128.90 → 46828.20
+[02:26:22.038] [PLC] [PLCMonitorView] Float 데이터 업데이트 완료: 16개 ✅
+[02:26:22.039] [Device] [DeviceView] PlcMonitorView.UpdateFloatData 호출 완료 ✅
+[02:26:22.127] [기타] [센서→PLC] Int 전송 완료: D1040~D1071 (16개 Int32, D1070에 RM-3544)
+[02:26:22.128] [Device] [DeviceView] UpdatePlcMonitorInt32Data 호출됨. 데이터 개수: 16
+[02:26:22.130] [Device] [DeviceView] PlcMonitorView 연결됨 ✅
+[02:26:22.131] [Device] [DeviceView] PlcMonitorView.UpdateInt32Data 호출 시작...
+[02:26:22.132] [PLC] [PLCMonitorView] UpdateInt32Data 시작. 데이터: 16개
+[02:26:22.133] [PLC] [PLCMonitorView] 업데이트할 개수: 16, 시작 인덱스: 37
+[02:26:22.134] [PLC] [PLCMonitorView] [37] D1040~D1041: 989850 → 987340
+[02:26:22.135] [PLC] [PLCMonitorView] [38] D1042~D1043: 5132 → 5141
+[02:26:22.136] [PLC] [PLCMonitorView] [39] D1044~D1045: 21722 → 21446
+[02:26:22.137] [PLC] [PLCMonitorView] [40] D1046~D1047: 1511 → 1523
+[02:26:22.138] [PLC] [PLCMonitorView] [41] D1048~D1049: 5159 → 5062
+[02:26:22.139] [PLC] [PLCMonitorView] [42] D1050~D1051: 21190 → 21768
+[02:26:22.140] [PLC] [PLCMonitorView] [43] D1052~D1053: 1481 → 1505
+[02:26:22.141] [PLC] [PLCMonitorView] [44] D1054~D1055: 4879 → 4856
+[02:26:22.142] [PLC] [PLCMonitorView] [45] D1056~D1057: 22162 → 21891
+[02:26:22.143] [PLC] [PLCMonitorView] [46] D1058~D1059: 1513 → 1534
+[02:26:22.144] [PLC] [PLCMonitorView] [47] D1060~D1061: 328219 → 326623
+[02:26:22.145] [PLC] [PLCMonitorView] [48] D1062~D1063: 5132 → 5141
+[02:26:22.146] [PLC] [PLCMonitorView] [49] D1064~D1065: 21722 → 21446
+[02:26:22.147] [PLC] [PLCMonitorView] [50] D1066~D1067: 1511 → 1523
+[02:26:22.149] [PLC] [PLCMonitorView] [51] D1068~D1069: 0 → 0
+[02:26:22.150] [PLC] [PLCMonitorView] [52] D1070~D1071: 4812890 → 4682820
+[02:26:22.151] [PLC] [PLCMonitorView] Int32 데이터 업데이트 완료: 16개 ✅
+[02:26:22.152] [Device] [DeviceView] PlcMonitorView.UpdateInt32Data 호출 완료 ✅
+[02:26:22.178] [기타] [센서→PLC] PW3360 3상 전송 완료: D1080~D1087 (Freq:6056, U1:21900, U2:21500, U3:22700)
+[02:26:22.191] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:22.193] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:22.194] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:22.205] [기타] [센서→PLC] NI 결과 전송 완료: D1074 = 'NG' (0x4E47)
+[02:26:22.347] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:22.349] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:22.350] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:22.481] [기타] [PW3360] Raw Response: Date 2026,02,08;Time 02,26,22;Status 00000000;U1_Ins 2.18E+02;U2_Ins 2.18E+02;U3_Ins 2.27E+02;Freq_Ins 5.889E+01
+
+[02:26:22.482] [기타] [PW3360] Part: 'U1_Ins 2.18E+02'
+[02:26:22.484] [기타] [PW3360] U1 extracted: '2.18E+02'
+[02:26:22.485] [기타] [PW3360] Part: 'U2_Ins 2.18E+02'
+[02:26:22.486] [기타] [PW3360] U2 extracted: '2.18E+02'
+[02:26:22.487] [기타] [PW3360] Part: 'U3_Ins 2.27E+02'
+[02:26:22.489] [기타] [PW3360] U3 extracted: '2.27E+02'
+[02:26:22.490] [기타] [PW3360] Part: 'Freq_Ins 5.889E+01'
+[02:26:22.491] [기타] [PW3360] Freq extracted: '5.889E+01'
+[02:26:22.492] [기타] [PW3360] 현재 주파수: 58.89Hz (정상범위: 45~65Hz)
+[02:26:22.494] [기타] [PW3360] 주파수 정상 (58.89Hz) - 보정 불필요
+[02:26:22.599] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:22.601] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:22.602] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:22.707] [기타] [센서→PLC] Float: 10085.10, 50.20, 213.36, 15.34, 51.77, 215.11, 15.13, 48.89, 220.08, 15.53, 3272.94, 50.20, 213.36, 15.34, 47166.70
+[02:26:22.709] [기타] [센서→PLC] Int: 1008510, 5020, 21336, 1534, 5177, 21511, 1513, 4889, 22008, 1553, 327294, 5020, 21336, 1534, 4716670
+[02:26:22.785] [기타] [센서→PLC] Float 전송 완료: D1000~D1031 (16개 Float, D1030에 RM-3544)
+[02:26:22.787] [Device] [DeviceView] UpdatePlcMonitorFloatData 호출됨. 데이터 개수: 16
+[02:26:22.788] [Device] [DeviceView] PlcMonitorView 연결됨 ✅
+[02:26:22.790] [Device] [DeviceView] PlcMonitorView.UpdateFloatData 호출 시작...
+[02:26:22.792] [PLC] [PLCMonitorView] UpdateFloatData 시작. 데이터: 16개
+[02:26:22.793] [PLC] [PLCMonitorView] PlcDataItems 개수: 72
+[02:26:22.794] [PLC] [PLCMonitorView] 업데이트할 개수: 16, 시작 인덱스: 21
+[02:26:22.796] [PLC] [PLCMonitorView] [21] D1000~D1001: 9873.40 → 10085.10
+[02:26:22.797] [PLC] [PLCMonitorView] [22] D1002~D1003: 51.41 → 50.20
+[02:26:22.799] [PLC] [PLCMonitorView] [23] D1004~D1005: 214.46 → 213.36
+[02:26:22.800] [PLC] [PLCMonitorView] [24] D1006~D1007: 15.23 → 15.34
+[02:26:22.801] [PLC] [PLCMonitorView] [25] D1008~D1009: 50.62 → 51.77
+[02:26:22.803] [PLC] [PLCMonitorView] [26] D1010~D1011: 217.68 → 215.11
+[02:26:22.804] [PLC] [PLCMonitorView] [27] D1012~D1013: 15.05 → 15.13
+[02:26:22.806] [PLC] [PLCMonitorView] [28] D1014~D1015: 48.56 → 48.89
+[02:26:22.807] [PLC] [PLCMonitorView] [29] D1016~D1017: 218.91 → 220.08
+[02:26:22.809] [PLC] [PLCMonitorView] [30] D1018~D1019: 15.34 → 15.53
+[02:26:22.810] [PLC] [PLCMonitorView] [31] D1020~D1021: 3266.23 → 3272.94
+[02:26:22.812] [PLC] [PLCMonitorView] [32] D1022~D1023: 51.41 → 50.20
+[02:26:22.814] [PLC] [PLCMonitorView] [33] D1024~D1025: 214.46 → 213.36
+[02:26:22.815] [PLC] [PLCMonitorView] [34] D1026~D1027: 15.23 → 15.34
+[02:26:22.817] [PLC] [PLCMonitorView] [35] D1028~D1029: 0.00 → 0.00
+[02:26:22.819] [PLC] [PLCMonitorView] [36] D1030~D1031: 46828.20 → 47166.70
+[02:26:22.821] [PLC] [PLCMonitorView] Float 데이터 업데이트 완료: 16개 ✅
+[02:26:22.823] [Device] [DeviceView] PlcMonitorView.UpdateFloatData 호출 완료 ✅
+[02:26:22.864] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:22.866] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:22.868] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:22.922] [기타] [센서→PLC] Int 전송 완료: D1040~D1071 (16개 Int32, D1070에 RM-3544)
+[02:26:22.924] [Device] [DeviceView] UpdatePlcMonitorInt32Data 호출됨. 데이터 개수: 16
+[02:26:22.926] [Device] [DeviceView] PlcMonitorView 연결됨 ✅
+[02:26:22.928] [Device] [DeviceView] PlcMonitorView.UpdateInt32Data 호출 시작...
+[02:26:22.929] [PLC] [PLCMonitorView] UpdateInt32Data 시작. 데이터: 16개
+[02:26:22.931] [PLC] [PLCMonitorView] 업데이트할 개수: 16, 시작 인덱스: 37
+[02:26:22.932] [PLC] [PLCMonitorView] [37] D1040~D1041: 987340 → 1008510
+[02:26:22.934] [PLC] [PLCMonitorView] [38] D1042~D1043: 5141 → 5020
+[02:26:22.936] [PLC] [PLCMonitorView] [39] D1044~D1045: 21446 → 21336
+[02:26:22.938] [PLC] [PLCMonitorView] [40] D1046~D1047: 1523 → 1534
+[02:26:22.940] [PLC] [PLCMonitorView] [41] D1048~D1049: 5062 → 5177
+[02:26:22.942] [PLC] [PLCMonitorView] [42] D1050~D1051: 21768 → 21511
+[02:26:22.943] [PLC] [PLCMonitorView] [43] D1052~D1053: 1505 → 1513
+[02:26:22.945] [PLC] [PLCMonitorView] [44] D1054~D1055: 4856 → 4889
+[02:26:22.947] [PLC] [PLCMonitorView] [45] D1056~D1057: 21891 → 22008
+[02:26:22.948] [PLC] [PLCMonitorView] [46] D1058~D1059: 1534 → 1553
+[02:26:22.951] [PLC] [PLCMonitorView] [47] D1060~D1061: 326623 → 327294
+[02:26:22.953] [PLC] [PLCMonitorView] [48] D1062~D1063: 5141 → 5020
+[02:26:22.955] [PLC] [PLCMonitorView] [49] D1064~D1065: 21446 → 21336
+[02:26:22.957] [PLC] [PLCMonitorView] [50] D1066~D1067: 1523 → 1534
+[02:26:22.960] [PLC] [PLCMonitorView] [51] D1068~D1069: 0 → 0
+[02:26:22.962] [PLC] [PLCMonitorView] [52] D1070~D1071: 4682820 → 4716670
+[02:26:22.965] [PLC] [PLCMonitorView] Int32 데이터 업데이트 완료: 16개 ✅
+[02:26:22.967] [Device] [DeviceView] PlcMonitorView.UpdateInt32Data 호출 완료 ✅
+[02:26:23.141] [기타] [센서→PLC] PW3360 3상 전송 완료: D1080~D1087 (Freq:5889, U1:21800, U2:21800, U3:22700)
+[02:26:23.161] [기타] [센서→PLC] NI 결과 전송 완료: D1074 = 'NG' (0x4E47)
+[02:26:23.230] [기타] [PW3360] Raw Response: Date 2026,02,08;Time 02,26,23;Status 00000000;U1_Ins 2.16E+02;U2_Ins 2.13E+02;U3_Ins 2.22E+02;Freq_Ins 5.882E+01
+
+[02:26:23.232] [기타] [PW3360] Part: 'U1_Ins 2.16E+02'
+[02:26:23.234] [기타] [PW3360] U1 extracted: '2.16E+02'
+[02:26:23.236] [기타] [PW3360] Part: 'U2_Ins 2.13E+02'
+[02:26:23.237] [기타] [PW3360] U2 extracted: '2.13E+02'
+[02:26:23.239] [기타] [PW3360] Part: 'U3_Ins 2.22E+02'
+[02:26:23.241] [기타] [PW3360] U3 extracted: '2.22E+02'
+[02:26:23.248] [기타] [PW3360] Part: 'Freq_Ins 5.882E+01'
+[02:26:23.250] [기타] [PW3360] Freq extracted: '5.882E+01'
+[02:26:23.251] [기타] [PW3360] 현재 주파수: 58.82Hz (정상범위: 45~65Hz)
+[02:26:23.253] [기타] [PW3360] 주파수 정상 (58.82Hz) - 보정 불필요
+[02:26:23.319] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:23.321] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:23.323] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:23.563] [기타] [센서→PLC] Float: 9951.00, 51.35, 219.68, 15.42, 51.62, 218.04, 14.86, 49.04, 218.69, 15.57, 3387.47, 51.35, 219.68, 15.42, 46887.60
+[02:26:23.564] [기타] [센서→PLC] Int: 995100, 5135, 21968, 1542, 5162, 21804, 1486, 4904, 21869, 1557, 338747, 5135, 21968, 1542, 4688760
+[02:26:23.584] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:23.585] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:23.585] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:23.647] [기타] [센서→PLC] Float 전송 완료: D1000~D1031 (16개 Float, D1030에 RM-3544)
+[02:26:23.648] [Device] [DeviceView] UpdatePlcMonitorFloatData 호출됨. 데이터 개수: 16
+[02:26:23.648] [Device] [DeviceView] PlcMonitorView 연결됨 ✅
+[02:26:23.649] [Device] [DeviceView] PlcMonitorView.UpdateFloatData 호출 시작...
+[02:26:23.649] [PLC] [PLCMonitorView] UpdateFloatData 시작. 데이터: 16개
+[02:26:23.650] [PLC] [PLCMonitorView] PlcDataItems 개수: 72
+[02:26:23.650] [PLC] [PLCMonitorView] 업데이트할 개수: 16, 시작 인덱스: 21
+[02:26:23.651] [PLC] [PLCMonitorView] [21] D1000~D1001: 10085.10 → 9951.00
+[02:26:23.651] [PLC] [PLCMonitorView] [22] D1002~D1003: 50.20 → 51.35
+[02:26:23.651] [PLC] [PLCMonitorView] [23] D1004~D1005: 213.36 → 219.68
+[02:26:23.652] [PLC] [PLCMonitorView] [24] D1006~D1007: 15.34 → 15.42
+[02:26:23.652] [PLC] [PLCMonitorView] [25] D1008~D1009: 51.77 → 51.62
+[02:26:23.652] [PLC] [PLCMonitorView] [26] D1010~D1011: 215.11 → 218.04
+[02:26:23.653] [PLC] [PLCMonitorView] [27] D1012~D1013: 15.13 → 14.86
+[02:26:23.653] [PLC] [PLCMonitorView] [28] D1014~D1015: 48.89 → 49.04
+[02:26:23.653] [PLC] [PLCMonitorView] [29] D1016~D1017: 220.08 → 218.69
+[02:26:23.653] [PLC] [PLCMonitorView] [30] D1018~D1019: 15.53 → 15.57
+[02:26:23.654] [PLC] [PLCMonitorView] [31] D1020~D1021: 3272.94 → 3387.47
+[02:26:23.654] [PLC] [PLCMonitorView] [32] D1022~D1023: 50.20 → 51.35
+[02:26:23.668] [PLC] [PLCMonitorView] [33] D1024~D1025: 213.36 → 219.68
+[02:26:23.668] [PLC] [PLCMonitorView] [34] D1026~D1027: 15.34 → 15.42
+[02:26:23.669] [PLC] [PLCMonitorView] [35] D1028~D1029: 0.00 → 0.00
+[02:26:23.669] [PLC] [PLCMonitorView] [36] D1030~D1031: 47166.70 → 46887.60
+[02:26:23.669] [PLC] [PLCMonitorView] Float 데이터 업데이트 완료: 16개 ✅
+[02:26:23.670] [Device] [DeviceView] PlcMonitorView.UpdateFloatData 호출 완료 ✅
+[02:26:23.720] [기타] [센서→PLC] Int 전송 완료: D1040~D1071 (16개 Int32, D1070에 RM-3544)
+[02:26:23.721] [Device] [DeviceView] UpdatePlcMonitorInt32Data 호출됨. 데이터 개수: 16
+[02:26:23.722] [Device] [DeviceView] PlcMonitorView 연결됨 ✅
+[02:26:23.722] [Device] [DeviceView] PlcMonitorView.UpdateInt32Data 호출 시작...
+[02:26:23.722] [PLC] [PLCMonitorView] UpdateInt32Data 시작. 데이터: 16개
+[02:26:23.723] [PLC] [PLCMonitorView] 업데이트할 개수: 16, 시작 인덱스: 37
+[02:26:23.723] [PLC] [PLCMonitorView] [37] D1040~D1041: 1008510 → 995100
+[02:26:23.723] [PLC] [PLCMonitorView] [38] D1042~D1043: 5020 → 5135
+[02:26:23.723] [PLC] [PLCMonitorView] [39] D1044~D1045: 21336 → 21968
+[02:26:23.724] [PLC] [PLCMonitorView] [40] D1046~D1047: 1534 → 1542
+[02:26:23.724] [PLC] [PLCMonitorView] [41] D1048~D1049: 5177 → 5162
+[02:26:23.724] [PLC] [PLCMonitorView] [42] D1050~D1051: 21511 → 21804
+[02:26:23.725] [PLC] [PLCMonitorView] [43] D1052~D1053: 1513 → 1486
+[02:26:23.725] [PLC] [PLCMonitorView] [44] D1054~D1055: 4889 → 4904
+[02:26:23.725] [PLC] [PLCMonitorView] [45] D1056~D1057: 22008 → 21869
+[02:26:23.726] [PLC] [PLCMonitorView] [46] D1058~D1059: 1553 → 1557
+[02:26:23.726] [PLC] [PLCMonitorView] [47] D1060~D1061: 327294 → 338747
+[02:26:23.726] [PLC] [PLCMonitorView] [48] D1062~D1063: 5020 → 5135
+[02:26:23.727] [PLC] [PLCMonitorView] [49] D1064~D1065: 21336 → 21968
+[02:26:23.727] [PLC] [PLCMonitorView] [50] D1066~D1067: 1534 → 1542
+[02:26:23.727] [PLC] [PLCMonitorView] [51] D1068~D1069: 0 → 0
+[02:26:23.728] [PLC] [PLCMonitorView] [52] D1070~D1071: 4716670 → 4688760
+[02:26:23.728] [PLC] [PLCMonitorView] Int32 데이터 업데이트 완료: 16개 ✅
+[02:26:23.728] [Device] [DeviceView] PlcMonitorView.UpdateInt32Data 호출 완료 ✅
+[02:26:23.750] [기타] [센서→PLC] PW3360 3상 전송 완료: D1080~D1087 (Freq:5882, U1:21600, U2:21300, U3:22200)
+[02:26:23.796] [기타] [센서→PLC] NI 결과 전송 완료: D1074 = 'NG' (0x4E47)
+[02:26:23.831] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:23.832] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:23.832] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:23.978] [PLC] [PLCMonitorView] UpdatePlcReadData 시작. D0~D20: 21개, 제품명: 
+[02:26:23.979] [PLC] [PLCMonitorView] PLC 읽기 데이터 업데이트 완료: D0~D20 ✅
+[02:26:23.979] [기타] [PLC Read] FC03: 127.0.0.1:5020 Unit:0 D0~D20 - OK
+[02:26:24.030] [기타] [PW3360] Raw Response: Date 2026,02,08;Time 02,26,23;Status 00000000;U1_Ins 2.16E+02;U2_Ins 2.18E+02;U3_Ins 2.21E+02;Freq_Ins 6.036E+01
+
+[02:26:24.031] [기타] [PW3360] Part: 'U1_Ins 2.16E+02'
+[02:26:24.032] [기타] [PW3360] U1 extracted: '2.16E+02'
+[02:26:24.032] [기타] [PW3360] Part: 'U2_Ins 2.18E+02'
+[02:26:24.033] [기타] [PW3360] U2 extracted: '2.18E+02'
+[02:26:24.033] [기타] [PW3360] Part: 'U3_Ins 2.21E+02'
+[02:26:24.034] [기타] [PW3360] U3 extracted: '2.21E+02'
+[02:26:24.034] [기타] [PW3360] Part: 'Freq_Ins 6.036E+01'
+[02:26:24.035] [기타] [PW3360] Freq extracted: '6.036E+01'
+[02:26:24.035] [기타] [PW3360] 현재 주파수: 60.36Hz (정상범위: 45~65Hz)
+[02:26:24.036] [기타] [PW3360] 주파수 정상 (60.36Hz) - 보정 불필요
