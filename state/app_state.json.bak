@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T21:01:01.1766027+09:00",
+  "timestamp": "2026-02-15T21:01:20.3271621+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "15532026021500415_072",
+    "barcode": "15532026021500415_073",
     "dDatd": "",
     "specName": "TFB-G25DT-S",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "15532026021500415_071",
+    "barcode": "15532026021500415_072",
     "dDatd": "",
     "specName": "TFB-G25DT-S",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -26,6 +26,17 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
+    "barcode": "15532026021500415_071",
+    "dDatd": "",
+    "specName": "TFB-G25DT-S",
+    "specPower": "3Φ 220/380V, 60HZ",
+    "specCapacity": "360 W",
+    "specCurrent": "R:1A  S:1A  T:1A",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": ""
+  },
+  "unloadingPosition": {
     "barcode": "15532026021500415_070",
     "dDatd": "",
     "specName": "TFB-G25DT-S",
@@ -34,31 +45,20 @@
     "specCurrent": "R:1A  S:1A  T:1A",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": "227.4V / 60.4Hz"
-  },
-  "unloadingPosition": {
-    "barcode": "15532026021500415_069",
-    "dDatd": "",
-    "specName": "TFB-G25DT-S",
-    "specPower": "3Φ 220/380V, 60HZ",
-    "specCapacity": "360 W",
-    "specCurrent": "R:1A  S:1A  T:1A",
-    "retestInfo": "-",
-    "firstResult": "OK",
-    "powerSupply": "222.7V / 60.3Hz"
+    "powerSupply": "223.0V / 60.0Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
-    "voltageR": "226.1 V",
+    "voltageR": "226.2 V",
     "voltageS": "- V",
     "voltageT": "- V",
-    "currentR": "1.01 A",
+    "currentR": "1.00 A",
     "currentS": "0.00 A",
     "currentT": "0.00 A",
-    "frequencyR": "59.9 Hz",
+    "frequencyR": "60.0 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10202.0 W",
+    "power": "10218.7 W",
     "noise": "OK",
     "finalResult": "NG1"
   },
@@ -6963,10 +6963,10 @@
       "dDatd": "1553",
       "manufactureDate": "2020-26-02",
       "serialNo": "070",
-      "inspectionDateTime": "",
-      "result": "",
-      "remark": "",
-      "inspectionCount": 0,
+      "inspectionDateTime": "2026-02-15 21:01:19",
+      "result": "NG1",
+      "remark": "S전류, T전류 불량",
+      "inspectionCount": 1,
       "workOrderNo": "PWO202602-0004"
     },
     {
@@ -9735,7 +9735,7 @@
   "currentWorkTime": "1150-1740",
   "currentWorkOrderFileName": "C:\\DongboInspection\\Result\\20260215\\PWO202602-0038_20260215_1150-1740.csv",
   "totalCount": 800,
-  "completedCount": 369,
+  "completedCount": 370,
   "okCount": 139,
-  "ngCount": 230
+  "ngCount": 231
 }
