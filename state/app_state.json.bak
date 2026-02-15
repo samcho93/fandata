@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T19:58:16.8161837+09:00",
+  "timestamp": "2026-02-15T19:58:22.5479511+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "14042026021500997_074",
+    "barcode": "14042026021500997_075",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
     "specPower": "1Φ 220V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "14042026021500997_073",
+    "barcode": "14042026021500997_074",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
     "specPower": "1Φ 220V, 60HZ",
@@ -26,6 +26,17 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
+    "barcode": "14042026021500997_073",
+    "dDatd": "",
+    "specName": "TFB-F19DS-S",
+    "specPower": "1Φ 220V, 60HZ",
+    "specCapacity": "260 W",
+    "specCurrent": "R:1A (단상)",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": "227.9V / 59.1Hz"
+  },
+  "unloadingPosition": {
     "barcode": "14042026021500997_072",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
@@ -34,31 +45,20 @@
     "specCurrent": "R:1A (단상)",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": ""
-  },
-  "unloadingPosition": {
-    "barcode": "14042026021500997_071",
-    "dDatd": "",
-    "specName": "TFB-F19DS-S",
-    "specPower": "1Φ 220V, 60HZ",
-    "specCapacity": "260 W",
-    "specCurrent": "R:1A (단상)",
-    "retestInfo": "-",
-    "firstResult": "OK",
-    "powerSupply": "226.0V / 60.5Hz"
+    "powerSupply": "224.9V / 60.3Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
-    "voltageR": "226.1 V",
+    "voltageR": "224.6 V",
     "voltageS": "- V",
     "voltageT": "- V",
-    "currentR": "1.00 A",
+    "currentR": "0.99 A",
     "currentS": "- A",
     "currentT": "- A",
-    "frequencyR": "59.9 Hz",
+    "frequencyR": "60.0 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10166.3 W",
+    "power": "10200.6 W",
     "noise": "OK",
     "finalResult": "OK"
   },
