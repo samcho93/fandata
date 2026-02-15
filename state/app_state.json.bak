@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T23:39:06.4758216+09:00",
+  "timestamp": "2026-02-15T23:39:08.4613798+09:00",
   "processId": 107444,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "11002026021500051_002",
+    "barcode": "11002026021500051_003",
     "dDatd": "",
     "specName": "TFB-F10AS",
     "specPower": "1Φ 220V, 60HZ",
@@ -15,6 +15,17 @@
     "powerSupply": ""
   },
   "bufferPosition": {
+    "barcode": "11002026021500051_002",
+    "dDatd": "",
+    "specName": "TFB-F10AS",
+    "specPower": "1Φ 220V, 60HZ",
+    "specCapacity": "30 W",
+    "specCurrent": "R:1A (단상)",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": ""
+  },
+  "inspectionPosition": {
     "barcode": "11002026021500051_001",
     "dDatd": "",
     "specName": "TFB-F10AS",
@@ -25,7 +36,6 @@
     "firstResult": "OK",
     "powerSupply": ""
   },
-  "inspectionPosition": null,
   "unloadingPosition": null,
   "inspectionMeasurement": null,
   "unloadingMeasurement": null,
