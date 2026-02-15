@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T23:47:43.2788378+09:00",
+  "timestamp": "2026-02-15T23:47:47.3812968+09:00",
   "processId": 16160,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "11002026021500785_002",
+    "barcode": "11002026021500785_004",
     "dDatd": "",
     "specName": "TFB-F10AS",
     "specPower": "1Φ 220V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "11002026021500785_001",
+    "barcode": "11002026021500785_003",
     "dDatd": "",
     "specName": "TFB-F10AS",
     "specPower": "1Φ 220V, 60HZ",
@@ -25,8 +25,28 @@
     "firstResult": "OK",
     "powerSupply": ""
   },
-  "inspectionPosition": null,
-  "unloadingPosition": null,
+  "inspectionPosition": {
+    "barcode": "11002026021500785_002",
+    "dDatd": "",
+    "specName": "TFB-F10AS",
+    "specPower": "1Φ 220V, 60HZ",
+    "specCapacity": "30 W",
+    "specCurrent": "R:1A (단상)",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": "226.7V / 59.1Hz"
+  },
+  "unloadingPosition": {
+    "barcode": "11002026021500785_001",
+    "dDatd": "",
+    "specName": "TFB-F10AS",
+    "specPower": "1Φ 220V, 60HZ",
+    "specCapacity": "30 W",
+    "specCurrent": "R:1A (단상)",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": "219.2V / 58.1Hz"
+  },
   "inspectionMeasurement": null,
   "unloadingMeasurement": null,
   "loadedWorkOrders": [
@@ -1254,10 +1274,10 @@
       "dDatd": "1100",
       "manufactureDate": "2020-26-02",
       "serialNo": "001",
-      "inspectionDateTime": "",
-      "result": "",
+      "inspectionDateTime": "2026-02-15 23:47:47",
+      "result": "NG1",
       "remark": "",
-      "inspectionCount": 0,
+      "inspectionCount": 1,
       "workOrderNo": "PWO202602-0059"
     },
     {
@@ -2454,7 +2474,7 @@
   "currentWorkTime": "0850-1510",
   "currentWorkOrderFileName": "C:\\DongboInspection\\Result\\20260215\\PWO202602-0059_20260215_0850-1510.csv",
   "totalCount": 200,
-  "completedCount": 0,
+  "completedCount": 1,
   "okCount": 0,
-  "ngCount": 0
+  "ngCount": 1
 }
