@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T20:20:08.8280473+09:00",
+  "timestamp": "2026-02-15T20:20:46.7652155+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "14502026021500945_043",
+    "barcode": "14502026021500945_045",
     "dDatd": "",
     "specName": "TFB-F19DT",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "14502026021500945_042",
+    "barcode": "14502026021500945_044",
     "dDatd": "",
     "specName": "TFB-F19DT",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -26,7 +26,7 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
-    "barcode": "14502026021500945_041",
+    "barcode": "14502026021500945_043",
     "dDatd": "",
     "specName": "TFB-F19DT",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -34,10 +34,10 @@
     "specCurrent": "R:1A  S:1A  T:1A",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": "224.3V / 59.2Hz"
+    "powerSupply": ""
   },
   "unloadingPosition": {
-    "barcode": "14502026021500945_040",
+    "barcode": "14502026021500945_042",
     "dDatd": "",
     "specName": "TFB-F19DT",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -45,20 +45,20 @@
     "specCurrent": "R:1A  S:1A  T:1A",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": "224.3V / 59.2Hz"
+    "powerSupply": "227.5V / 60.6Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
-    "voltageR": "225.4 V",
+    "voltageR": "226.4 V",
     "voltageS": "- V",
     "voltageT": "- V",
-    "currentR": "1.00 A",
+    "currentR": "0.99 A",
     "currentS": "0.00 A",
     "currentT": "0.00 A",
-    "frequencyR": "59.9 Hz",
+    "frequencyR": "59.8 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10193.0 W",
+    "power": "10231.9 W",
     "noise": "OK",
     "finalResult": "NG1"
   },
@@ -4215,10 +4215,10 @@
       "dDatd": "1450",
       "manufactureDate": "2020-26-02",
       "serialNo": "041",
-      "inspectionDateTime": "",
-      "result": "",
-      "remark": "",
-      "inspectionCount": 0,
+      "inspectionDateTime": "2026-02-15 20:20:27",
+      "result": "NG1",
+      "remark": "S전류, T전류 불량",
+      "inspectionCount": 1,
       "workOrderNo": "PWO202602-0058"
     },
     {
@@ -4227,10 +4227,10 @@
       "dDatd": "1450",
       "manufactureDate": "2020-26-02",
       "serialNo": "042",
-      "inspectionDateTime": "",
-      "result": "",
-      "remark": "",
-      "inspectionCount": 0,
+      "inspectionDateTime": "2026-02-15 20:20:46",
+      "result": "NG1",
+      "remark": "S전류, T전류 불량",
+      "inspectionCount": 1,
       "workOrderNo": "PWO202602-0058"
     },
     {
@@ -9735,7 +9735,4 @@
   "currentWorkTime": "1150-1740",
   "currentWorkOrderFileName": "C:\\DongboInspection\\Result\\20260215\\PWO202602-0038_20260215_1150-1740.csv",
   "totalCount": 800,
-  "completedCount": 240,
-  "okCount": 139,
-  "ngCount": 101
-}
+  "completedCount":
