@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T20:53:18.2850172+09:00",
+  "timestamp": "2026-02-15T20:53:21.9173842+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "15532026021500415_047",
+    "barcode": "15532026021500415_048",
     "dDatd": "",
     "specName": "TFB-G25DT-S",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "15532026021500415_046",
+    "barcode": "15532026021500415_047",
     "dDatd": "",
     "specName": "TFB-G25DT-S",
     "specPower": "3Φ 220/380V, 60HZ",
@@ -26,6 +26,17 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
+    "barcode": "15532026021500415_046",
+    "dDatd": "",
+    "specName": "TFB-G25DT-S",
+    "specPower": "3Φ 220/380V, 60HZ",
+    "specCapacity": "360 W",
+    "specCurrent": "R:1A  S:1A  T:1A",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": "224.0V / 60.5Hz"
+  },
+  "unloadingPosition": {
     "barcode": "15532026021500415_045",
     "dDatd": "",
     "specName": "TFB-G25DT-S",
@@ -34,31 +45,20 @@
     "specCurrent": "R:1A  S:1A  T:1A",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": "224.1V / 59.7Hz"
-  },
-  "unloadingPosition": {
-    "barcode": "15532026021500415_044",
-    "dDatd": "",
-    "specName": "TFB-G25DT-S",
-    "specPower": "3Φ 220/380V, 60HZ",
-    "specCapacity": "360 W",
-    "specCurrent": "R:1A  S:1A  T:1A",
-    "retestInfo": "-",
-    "firstResult": "OK",
-    "powerSupply": "222.6V / 59.7Hz"
+    "powerSupply": "227.8V / 59.7Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
-    "voltageR": "225.8 V",
+    "voltageR": "225.2 V",
     "voltageS": "- V",
     "voltageT": "- V",
     "currentR": "1.00 A",
     "currentS": "0.00 A",
     "currentT": "0.00 A",
-    "frequencyR": "60.3 Hz",
+    "frequencyR": "60.1 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10200.6 W",
+    "power": "10204.7 W",
     "noise": "OK",
     "finalResult": "NG1"
   },
