@@ -1,6 +1,6 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T19:36:50.2484237+09:00",
+  "timestamp": "2026-02-15T19:37:09.4517061+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
@@ -1383,10 +1383,10 @@
       "dDatd": "1404",
       "manufactureDate": "2020-26-02",
       "serialNo": "005",
-      "inspectionDateTime": "",
-      "result": "",
+      "inspectionDateTime": "2026-02-15 19:37:09",
+      "result": "OK",
       "remark": "",
-      "inspectionCount": 0,
+      "inspectionCount": 1,
       "workOrderNo": "PWO202602-0085"
     },
     {
@@ -9735,7 +9735,7 @@
   "currentWorkTime": "1150-1740",
   "currentWorkOrderFileName": "C:\\DongboInspection\\Result\\20260215\\PWO202602-0038_20260215_1150-1740.csv",
   "totalCount": 800,
-  "completedCount": 104,
-  "okCount": 45,
+  "completedCount": 105,
+  "okCount": 46,
   "ngCount": 59
 }
