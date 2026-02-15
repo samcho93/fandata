@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T19:46:55.5668362+09:00",
+  "timestamp": "2026-02-15T19:46:55.9596523+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "14042026021500997_038",
+    "barcode": "14042026021500997_039",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
     "specPower": "1Φ 220V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "14042026021500997_037",
+    "barcode": "14042026021500997_038",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
     "specPower": "1Φ 220V, 60HZ",
@@ -26,7 +26,7 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
-    "barcode": "14042026021500997_036",
+    "barcode": "14042026021500997_037",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
     "specPower": "1Φ 220V, 60HZ",
@@ -37,7 +37,7 @@
     "powerSupply": ""
   },
   "unloadingPosition": {
-    "barcode": "14042026021500997_035",
+    "barcode": "14042026021500997_036",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
     "specPower": "1Φ 220V, 60HZ",
@@ -45,20 +45,20 @@
     "specCurrent": "R:1A (단상)",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": "228.9V / 59.7Hz"
+    "powerSupply": "222.7V / 60.9Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
-    "voltageR": "226.2 V",
+    "voltageR": "226.4 V",
     "voltageS": "- V",
     "voltageT": "- V",
-    "currentR": "1.00 A",
+    "currentR": "1.01 A",
     "currentS": "- A",
     "currentT": "- A",
-    "frequencyR": "59.7 Hz",
+    "frequencyR": "59.9 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10286.6 W",
+    "power": "10292.7 W",
     "noise": "OK",
     "finalResult": "OK"
   },
