@@ -1,6 +1,6 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T21:11:22.4749403+09:00",
+  "timestamp": "2026-02-15T21:11:40.5842789+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
@@ -7359,10 +7359,10 @@
       "dDatd": "1581",
       "manufactureDate": "2020-26-02",
       "serialNo": "003",
-      "inspectionDateTime": "",
-      "result": "",
-      "remark": "",
-      "inspectionCount": 0,
+      "inspectionDateTime": "2026-02-15 21:11:40",
+      "result": "NG1",
+      "remark": "S전류, T전류 불량",
+      "inspectionCount": 1,
       "workOrderNo": "PWO202602-0049"
     },
     {
@@ -9735,7 +9735,7 @@
   "currentWorkTime": "1150-1740",
   "currentWorkOrderFileName": "C:\\DongboInspection\\Result\\20260215\\PWO202602-0038_20260215_1150-1740.csv",
   "totalCount": 800,
-  "completedCount": 402,
+  "completedCount": 403,
   "okCount": 139,
-  "ngCount": 263
+  "ngCount": 264
 }
