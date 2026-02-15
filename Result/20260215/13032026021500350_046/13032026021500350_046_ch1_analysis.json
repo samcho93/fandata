@@ -1,0 +1,19 @@
+﻿{
+  "Barcode": "13032026021500350_046",
+  "Channel": "CH1",
+  "FilePath": "C:\\DongboInspection\\Result\\20260215\\13032026021500350_046\\13032026021500350_046_ch1.wav",
+  "FileName": "13032026021500350_046_ch1.wav",
+  "AnalysisTime": "2026-02-15 18:16:09",
+  "SampleRate": 6400,
+  "TotalSamples": 19200,
+  "PeakFrequency": 100,
+  "SpectralCentroid": 1087.7960251925101,
+  "SpectralRolloff": 2442.1875,
+  "SpectralFlatness": 0.5717674342483967,
+  "THD": 0.003849176794984517,
+  "CrestFactor": 1.5516711772369502,
+  "RMS": 0.07088186799883087,
+  "Skewness": -0.0014342743286274529,
+  "JudgeResult": "OK",
+  "FailReason": "신뢰도:양호(45개)"
+}
