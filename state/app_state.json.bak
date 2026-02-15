@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T22:59:42.3597873+09:00",
+  "timestamp": "2026-02-15T22:59:44.1314183+09:00",
   "processId": 54236,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "16122026021500166_047",
+    "barcode": "16122026021500166_048",
     "dDatd": "",
     "specName": "TFB-F28FS",
     "specPower": "1Φ 220V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "16122026021500166_046",
+    "barcode": "16122026021500166_047",
     "dDatd": "",
     "specName": "TFB-F28FS",
     "specPower": "1Φ 220V, 60HZ",
@@ -26,6 +26,17 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
+    "barcode": "16122026021500166_046",
+    "dDatd": "",
+    "specName": "TFB-F28FS",
+    "specPower": "1Φ 220V, 60HZ",
+    "specCapacity": "1525 W",
+    "specCurrent": "R:1A (단상)",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": "224.5V / 59.0Hz"
+  },
+  "unloadingPosition": {
     "barcode": "16122026021500166_045",
     "dDatd": "",
     "specName": "TFB-F28FS",
@@ -34,31 +45,20 @@
     "specCurrent": "R:1A (단상)",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": ""
-  },
-  "unloadingPosition": {
-    "barcode": "16122026021500166_044",
-    "dDatd": "",
-    "specName": "TFB-F28FS",
-    "specPower": "1Φ 220V, 60HZ",
-    "specCapacity": "1525 W",
-    "specCurrent": "R:1A (단상)",
-    "retestInfo": "-",
-    "firstResult": "OK",
-    "powerSupply": "222.7V / 59.2Hz"
+    "powerSupply": "229.1V / 59.6Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
-    "voltageR": "225.4 V",
+    "voltageR": "223.6 V",
     "voltageS": "- V",
     "voltageT": "- V",
-    "currentR": "1.00 A",
+    "currentR": "0.99 A",
     "currentS": "- A",
     "currentT": "- A",
-    "frequencyR": "60.0 Hz",
+    "frequencyR": "59.6 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10162.6 W",
+    "power": "10262.5 W",
     "noise": "OK",
     "finalResult": "OK"
   },
