@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T22:11:59.8002831+09:00",
+  "timestamp": "2026-02-15T22:12:19.3871826+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "16072026021500907_094",
+    "barcode": "16072026021500907_095",
     "dDatd": "",
     "specName": "TFB-G29ES",
     "specPower": "1Φ 220V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "16072026021500907_093",
+    "barcode": "16072026021500907_094",
     "dDatd": "",
     "specName": "TFB-G29ES",
     "specPower": "1Φ 220V, 60HZ",
@@ -26,7 +26,7 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
-    "barcode": "16072026021500907_092",
+    "barcode": "16072026021500907_093",
     "dDatd": "",
     "specName": "TFB-G29ES",
     "specPower": "1Φ 220V, 60HZ",
@@ -37,7 +37,7 @@
     "powerSupply": ""
   },
   "unloadingPosition": {
-    "barcode": "16072026021500907_091",
+    "barcode": "16072026021500907_092",
     "dDatd": "",
     "specName": "TFB-G29ES",
     "specPower": "1Φ 220V, 60HZ",
@@ -45,20 +45,20 @@
     "specCurrent": "R:1A (단상)",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": "227.4V / 59.8Hz"
+    "powerSupply": "226.5V / 60.0Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
-    "voltageR": "224.7 V",
+    "voltageR": "225.9 V",
     "voltageS": "- V",
     "voltageT": "- V",
-    "currentR": "1.01 A",
+    "currentR": "1.00 A",
     "currentS": "- A",
     "currentT": "- A",
-    "frequencyR": "60.1 Hz",
+    "frequencyR": "60.4 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10239.4 W",
+    "power": "10143.6 W",
     "noise": "OK",
     "finalResult": "OK"
   },
@@ -9627,10 +9627,10 @@
       "dDatd": "1607",
       "manufactureDate": "2020-26-02",
       "serialNo": "092",
-      "inspectionDateTime": "",
-      "result": "",
+      "inspectionDateTime": "2026-02-15 22:12:19",
+      "result": "OK",
       "remark": "",
-      "inspectionCount": 0,
+      "inspectionCount": 1,
       "workOrderNo": "PWO202602-0038"
     },
     {
@@ -9735,7 +9735,7 @@
   "currentWorkTime": "1150-1740",
   "currentWorkOrderFileName": "C:\\DongboInspection\\Result\\20260215\\PWO202602-0038_20260215_1150-1740.csv",
   "totalCount": 800,
-  "completedCount": 591,
-  "okCount": 229,
+  "completedCount": 592,
+  "okCount": 230,
   "ngCount": 362
 }
