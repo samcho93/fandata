@@ -9736,4 +9736,6 @@
   "currentWorkOrderFileName": "C:\\DongboInspection\\Result\\20260215\\PWO202602-0038_20260215_1150-1740.csv",
   "totalCount": 800,
   "completedCount": 560,
-  "okCount": 198
+  "okCount": 198,
+  "ngCount": 362
+}
