@@ -2487,4 +2487,7 @@
   "currentWorkTime": "0900-1400",
   "currentWorkOrderFileName": "C:\\DongboInspection\\Result\\20260215\\PWO202602-0085_20260215_0900-1400.csv",
   "totalCount": 200,
-  "completedCount": 48,
+  "completedCount": 48,
+  "okCount": 47,
+  "ngCount": 1
+}
