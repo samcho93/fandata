@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0",
-  "timestamp": "2026-02-15T19:55:20.3670949+09:00",
+  "timestamp": "2026-02-15T19:55:21.082923+09:00",
   "processId": 18108,
   "isInspectionRunning": true,
   "loadingPosition": {
-    "barcode": "14042026021500997_065",
+    "barcode": "14042026021500997_066",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
     "specPower": "1Φ 220V, 60HZ",
@@ -15,7 +15,7 @@
     "powerSupply": ""
   },
   "bufferPosition": {
-    "barcode": "14042026021500997_064",
+    "barcode": "14042026021500997_065",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
     "specPower": "1Φ 220V, 60HZ",
@@ -26,6 +26,17 @@
     "powerSupply": ""
   },
   "inspectionPosition": {
+    "barcode": "14042026021500997_064",
+    "dDatd": "",
+    "specName": "TFB-F19DS-S",
+    "specPower": "1Φ 220V, 60HZ",
+    "specCapacity": "260 W",
+    "specCurrent": "R:1A (단상)",
+    "retestInfo": "-",
+    "firstResult": "OK",
+    "powerSupply": "229.7V / 60.4Hz"
+  },
+  "unloadingPosition": {
     "barcode": "14042026021500997_063",
     "dDatd": "",
     "specName": "TFB-F19DS-S",
@@ -34,31 +45,20 @@
     "specCurrent": "R:1A (단상)",
     "retestInfo": "-",
     "firstResult": "OK",
-    "powerSupply": "226.4V / 59.6Hz"
-  },
-  "unloadingPosition": {
-    "barcode": "14042026021500997_062",
-    "dDatd": "",
-    "specName": "TFB-F19DS-S",
-    "specPower": "1Φ 220V, 60HZ",
-    "specCapacity": "260 W",
-    "specCurrent": "R:1A (단상)",
-    "retestInfo": "-",
-    "firstResult": "OK",
-    "powerSupply": "226.4V / 59.6Hz"
+    "powerSupply": "223.7V / 60.2Hz"
   },
   "inspectionMeasurement": null,
   "unloadingMeasurement": {
-    "voltageR": "225.5 V",
+    "voltageR": "227.0 V",
     "voltageS": "- V",
     "voltageT": "- V",
     "currentR": "1.00 A",
     "currentS": "- A",
     "currentT": "- A",
-    "frequencyR": "60.4 Hz",
+    "frequencyR": "60.3 Hz",
     "frequencyS": "- Hz",
     "frequencyT": "- Hz",
-    "power": "10229.5 W",
+    "power": "10284.1 W",
     "noise": "OK",
     "finalResult": "OK"
   },
