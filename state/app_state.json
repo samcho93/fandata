@@ -1278,4 +1278,8 @@
   "currentWorkDate": "20260215",
   "currentWorkTime": "0900-1700",
   "currentWorkOrderFileName": "C:\\DongboInspection\\Result\\20260215\\PWO202602-0054_20260215_0900-1700.csv",
-  "totalCou
+  "totalCount": 100,
+  "completedCount": 2,
+  "okCount": 0,
+  "ngCount": 2
+}
